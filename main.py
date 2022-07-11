@@ -17,8 +17,6 @@ time()
 
 mainloop()
 
-#ceci est un commentaire
-
 
 
 
